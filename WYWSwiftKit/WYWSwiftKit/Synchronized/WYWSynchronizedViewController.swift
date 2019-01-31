@@ -5,6 +5,7 @@
 //  Created by wangyongwang on 2019/1/30.
 //  Copyright © 2019年 it.wyw. All rights reserved.
 // 学习网址：https://swifter.tips/lock/
+// 实现原理：https://opensource.apple.com/source/objc4/objc4-646/runtime/objc-sync.mm.auto.html
 
 import UIKit
 
@@ -59,4 +60,12 @@ class WYWSynchronizedViewController: UIViewController {
  剩余票数:1 所卖票索引:19
  剩余票数:0 所卖票索引:20
  
+ */
+
+/**
+ 
+ 相关内容：
+ * https://stackoverflow.com/questions/24045895/what-is-the-swift-equivalent-to-objective-cs-synchronized
+ * https://stackoverflow.com/questions/49160125/thread-safe-singleton-in-swift
+ * https://objccn.io/issue-2-4/
  */

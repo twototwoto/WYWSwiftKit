@@ -4,7 +4,8 @@
 //
 //  Created by wangyongwang on 2019/1/30.
 //  Copyright © 2019年 it.wyw. All rights reserved.
-//
+// https://swift.gg/2018/07/30/friday-qa-2015-02-20-lets-build-synchronized/
+// https://www.mikeash.com/pyblog/friday-qa-2015-02-20-lets-build-synchronized.html
 
 import UIKit
 
